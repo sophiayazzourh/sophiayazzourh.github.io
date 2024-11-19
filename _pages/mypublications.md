@@ -1,7 +1,10 @@
 ---
-permalink: /mypublication/
+permalink: /mypublications/
 title: "Publications"
 author_profile: true
+redirect_from: 
+  - /myp/
+  - /mypublications.html
 ---
 
 
