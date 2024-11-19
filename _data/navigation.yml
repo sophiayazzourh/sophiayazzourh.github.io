@@ -20,8 +20,11 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /files/CV_academique_ENG.pdf
+  - title: "CV [EN]"
+    url: /files/CV_SophiaYazzourh_[EN].pdf
+
+  - title: "CV [FR]"
+    url: /files/CV_SophiaYazzourh_[FR].pdf
     
   #- title: "Guide"
   #  url: /markdown/

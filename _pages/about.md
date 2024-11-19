@@ -23,7 +23,7 @@ My name is Sophia Yazzourh. I recently graduated with a PhD from the [*Institute
 
 
 ## Personal interests : 
-* Handball :heart:
-* Badminton :seedling:
+* Handball :woman_playing_handball: :heart:
+* Badminton :badminton:
 * Photography :camera:
 * Museums :european_castle:
