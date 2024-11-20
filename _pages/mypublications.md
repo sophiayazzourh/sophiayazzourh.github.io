@@ -16,4 +16,4 @@ redirect_from:
   - Sophia Yazzourh (IMT), Nicolas Savy (IMT), Philippe Saint Pierre (IMT), and Michael Kosorok (UNC). *Rewards Construction Based on Preference Learning for Dynamic Treatment Regimes.*
 
 ###  **Manuscript:**
-  - Sophia Yazzourh, *"Reinforcement Learning and Bayesian Outcome-Weighted Learning for Precision Medicine. Integration of Medical Knowledge into Decision Algorithms."*, Doctoral Manuscript, University of Toulouse, prepared at the University of Toulouse III - Paul Sabatier, 2024.
+  - Sophia Yazzourh, *"Reinforcement Learning and Bayesian Outcome-Weighted Learning for Precision Medicine. Integration of Medical Knowledge into Decision Algorithms."*, [Doctoral Manuscript](http://thesesups.ups-tlse.fr/6190/1/2024TLSES139.pdf), University of Toulouse, prepared at the University of Toulouse III - Paul Sabatier, 2024.
