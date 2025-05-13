@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-My name is Sophia Yazzourh. I recently graduated with a PhD from the [*Institute of Mathematics of Toulouse*](https://www.math.univ-toulouse.fr/en/) (IMT), where I worked on reinforcement learning applied to treatment sequences for patients with chronic diseases. I also hold an engineering degree from the [*Institut National des Sciences Appliquées*](https://www.insa-toulouse.fr/en) (INSA) of Toulouse in applied mathematics.
+I am currently a postdoctoral fellow in the Department of Biostatistics at McGill University, working under the supervision of [Erica Moodie](https://www.ericamoodie.com/) and in collaboration with [Susan Shortreed](https://www.linkedin.com/in/susan-m-shortreed-1267a710/) (Kaiser Permanente). My research focuses on statistical methods for precision medicine, including the development of dynamic treatment regimes (DTRs), causal inference, and applications to patients with depression.
+
+I hold a Ph.D. from the *Institut de Mathématiques de Toulouse* (IMT), where I developed reinforcement learning approaches for optimizing treatment sequences in healthcare settings. I also hold an engineering degree from the *Institut National des Sciences Appliquées* (INSA) of Toulouse, with a specialization in applied mathematics and statistics.
+
 
 
 **Research interests**: Reinforcement Learning, Precision Medicine, Dynamic Treatment Regimes, Individualized Treatment Regime, Bayesian Support Vector Machine, Preference Learning.
@@ -23,12 +26,11 @@ My name is Sophia Yazzourh. I recently graduated with a PhD from the [*Institute
 
 ## Academic commitment
 * **Organizer of the Student Seminar at IMT** (2022–2024): Coordinated bi-monthly [seminars](https://indico.math.cnrs.fr/category/575/) for PhD/postdocs.
-* **Committee Member, [10th Journées Statistiques du Sud](https://indico.math.cnrs.fr/event/10091/)** Organized workshops in southern France with mini-courses and presentations.
+* **Committee Member, [10th Journées Statistiques du Sud](https://indico.math.cnrs.fr/event/10091/)**: Organized workshops in southern France with mini-courses and presentations.
 * **Participant, Scientific Outreach Project [DECLICS](https://www.cerclefser.org/fr/declics/)** (2022–): Engaged with high school students in Occitanie through discussions and career presentations.
 
 
-## Personal interests : 
-* Handball :woman_playing_handball: :heart:
+* Handball :woman_playing_handball: :heart: — Player for [Les Celtiques de Montréal](https://celtiques.com/)
 * Badminton :badminton:
 * Photography :camera:
 * Museums :european_castle:

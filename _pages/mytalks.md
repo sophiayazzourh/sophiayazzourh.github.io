@@ -7,6 +7,41 @@ redirect_from:
   - /mytalks.html
 ---
 
+## Upcoming Talks
+
+* **[2025 SSC Annual Meeting](https://ssc.ca/fr/congres/annuel/presentation/rewards-construction-based-preference-learning-dynamic-treatment)**  
+  *University of Saskatchewan, Saskatoon, May 27–30, 2025*  
+  **"Rewards Construction Based on Preference Learning for Dynamic Treatment Regimes."**  
+  *Upcoming talk accepted for oral presentation at Canada’s largest statistical conference.*
+
+* **[Colloque des cycles supérieurs en mathématiques et statistique (CFIRB)](http://colloqueinterfacul.wixsite.com/cfirb)**  
+  *Université Laval, Quebec City, August 10, 2025*  
+  **TBA**  
+  *Upcoming invited talk at the interdisciplinary graduate research colloquium.*
+
+## Past Talks
+
+* **[8th Annual Biostatistics Research and Career Day](https://sites.google.com/view/2025-biostats-research-day/program-programme?authuser=0)**  
+  *McGill University, Montreal, May 9, 2025*  
+  **"Bayesian Outcome-Weighted Learning."**  
+  *Presented at the departmental research day. Awarded one of the prizes for best student presentations.*
+
+---
+
+* **CRM Seminar – Université de Montréal**  
+  *CRM, Université de Montréal, April 25, 2024*  
+  **"Reinforcement Learning for Precision Medicine: Integrating Medical Knowledge into Decision Algorithms."**  
+  *Invited talk at the Department of Mathematics and Statistics.*
+
+---
+
+* **[Statistics Seminar – Université du Québec à Montréal (UQAM)](https://statqam.uqam.ca/2024-2025/)**  
+  *UQAM, Montreal, April 3, 2024*  
+  **"Integrating Medical Knowledge into Reinforcement Learning for Dynamic Treatment Regimes."**  
+  *Invited research talk.*
+
+---
+
 * **[10th edition of the Southern Statistical Conference](https://indico.math.cnrs.fr/event/10091/)**  
   *University of Toulouse III - Paul Sabatier, Toulouse, June 18, 2024*  
   [**"Bayesian Outcome-Weighted Learning."**](https://indico.math.cnrs.fr/event/10091/contributions/11318/)  
