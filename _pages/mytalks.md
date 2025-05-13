@@ -12,13 +12,12 @@ redirect_from:
 * **[2025 SSC Annual Meeting](https://ssc.ca/fr/congres/annuel/presentation/rewards-construction-based-preference-learning-dynamic-treatment)**  
   *University of Saskatchewan, Saskatoon, May 27–30, 2025*  
   **"Rewards Construction Based on Preference Learning for Dynamic Treatment Regimes."**  
-  *Upcoming talk accepted for oral presentation at Canada’s largest statistical conference.*
+  
 
 * **[Colloque des cycles supérieurs en mathématiques et statistique (CFIRB)](http://colloqueinterfacul.wixsite.com/cfirb)**  
-  *Université Laval, Quebec City, August 10, 2025*  
+  *Centre Hospitalier de l'Université de Montréal, Montréal, Québec, August 10, 2025*  
   **TBA**  
-  *Upcoming invited talk at the interdisciplinary graduate research colloquium.*
-
+  
 ## Past Talks
 
 * **[8th Annual Biostatistics Research and Career Day](https://sites.google.com/view/2025-biostats-research-day/program-programme?authuser=0)**  
