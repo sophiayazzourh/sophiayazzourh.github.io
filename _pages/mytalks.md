@@ -7,7 +7,7 @@ redirect_from:
   - /mytalks.html
 ---
 
-## Upcoming Invited Talks
+# Upcoming Invited Talks
 
 ### **Statistics Seminar – University of Glasgow**
 *Glasgow, January 7, 2026*  
@@ -23,7 +23,7 @@ redirect_from:
 
 ---
 
-## Invited Talks
+# Invited Talks
 
 ### **[CSEB Annual Conference 2025](https://cseb.ca/fr/evenements/conference-2025/#program)**  
 *Montreal, August 13, 2025*  
@@ -49,7 +49,7 @@ redirect_from:
 
 ---
 
-## Contributions
+# Contributions
 
 ### **[CFIRB Graduate Research Symposium in Mathematics and Statistics](https://colloqueinterfacul.wixsite.com/cfirb)**  
 *Montreal, August 10, 2025*  
@@ -97,7 +97,7 @@ redirect_from:
 
 ---
 
-## Poster Presentations
+# Poster Presentations
 
 ### **Statistics & Optimization Seminar – IMT**  
 *Toulouse, December 6, 2022*  

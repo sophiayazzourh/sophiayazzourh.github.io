@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-### **Under review:**
+### **Publication:**
   - Sophia Yazzourh (IMT), Nicolas Savy (IMT), Philippe Saint Pierre (IMT), and Michael Kosorok (UNC). *Medical Knowledge Integration into Reinforcement Learning Algorithms for Dynamic Treatment Regimes*, International Statistical Review, 2024. DOI:[10.1111/insr.12617](https://doi.org/10.1111/insr.12617).
 
 ### **On-going publications:**
