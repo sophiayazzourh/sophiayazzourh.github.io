@@ -1,13 +1,11 @@
 ---
 permalink: /myteaching/
-title: "Teaching"
+title: "Teaching & Pedagogical Projects"
 author_profile: true
 redirect_from: 
   - /mytea/
   - /myteaching.html
 ---
-
-## Teaching & Pedagogical Projects
 
 ### Teaching Assistant in Mathematics – Mechanical Engineering Technology Department *(IUT GMP)*  
 *2021–2024*

@@ -25,7 +25,7 @@ I hold a Ph.D. from the *Institut de Mathématiques de Toulouse* (IMT), where I 
 * **Internship in Integration and Validation of a Component of GALILEO Ground Segment**, *Capgemini Group*, July 2019 - September 2019
 
 ## Academic commitment
-* **[Member of the African Women in Science Association (AFSA), McGill Representative](ttps://www.linkedin.com/in/afsa-qc-235b07363/?originalSubdomain=ca)** (2025–):  
+* **[Member of the African Women in Science Association (AFSA), McGill Representative](https://www.linkedin.com/in/afsa-qc-235b07363/?originalSubdomain=ca)** (2025–):  
   Co-organizing seminars and community-building activities to promote the visibility and advancement of African women in science within the Montréal academic community, including a dedicated Biostatistics session scheduled for February 2025.
 
 * **Organizer of the Student Seminar at IMT** (2022–2024): Coordinated bi-monthly [seminars](https://indico.math.cnrs.fr/category/575/) for PhD/postdocs.
