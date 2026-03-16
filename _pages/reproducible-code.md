@@ -7,31 +7,27 @@ redirect_from:
   - /mycode.html
 ---
 
-Code accompanying my research papers, providing reproducible implementations of the proposed methods and simulation studies. 
-
 ## Near-Equivalent Q-learning Policies for Dynamic Treatment Regimes
 
-Code accompanying the paper on near-equivalent treatment policies in reinforcement learning for dynamic treatment regimes.
+Research code accompanying ongoing work on near-equivalent treatment policies in reinforcement learning for dynamic treatment regimes.
 
-- Paper: *in preparation*
-- Code: https://github.com/sophiayazzourh/Multiple_Policies_Qlearning
-
+**Methods:** reinforcement learning, dynamic treatment regimes  
+**Links:** [Code](https://github.com/sophiayazzourh/Multiple_Policies_Qlearning)
 
 ---
 
 ## Bayesian Outcome-Weighted Learning
 
-Bayesian extension of outcome-weighted learning with uncertainty quantification.
+Code accompanying my work on Bayesian outcome-weighted learning, with a focus on uncertainty quantification for treatment rule estimation.
 
-- Preprint: https://arxiv.org/abs/2406.11573
-- Code: (link when available)
-
+**Methods:** Bayesian inference, outcome-weighted learning  
+**Links:** [Preprint](https://arxiv.org/abs/2406.11573) | Code (coming soon)
 
 ---
 
-## Preference-based Reward Construction for Dynamic Treatment Regimes
+## Rewards Construction Based on Preference Learning for Dynamic Treatment Regimes
 
-Learning reward functions for dynamic treatment regimes using preference learning.
+Research code for preference-based reward construction in reinforcement learning for dynamic treatment regimes.
 
-- Paper: *in preparation*
-- Code: (link when available)
+**Methods:** preference learning, reinforcement learning, dynamic treatment regimes  
+**Links:** Code (coming soon)
