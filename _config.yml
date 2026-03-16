@@ -23,9 +23,9 @@ repository               : "sophiayazzourh/sophiayazzourh.github.io"
 author:
   # Biographic information
   avatar           : "profile2.jpg"
-  name             : "Sophia Yazzourh"
+  name             : #"Sophia Yazzourh"
   pronouns         : # example: "she/her"  
-  bio              : "Hello world"
+  bio              : "Postdoctoral researcher"
   location         : "Montréal, Canada"
   employer         : "McGill University"
   uri              : # URL

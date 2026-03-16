@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Sophia Yazzourh – Personal website
-
 I am currently a postdoctoral fellow in the Department of Biostatistics at McGill University, working under the supervision of [Erica Moodie](https://www.ericamoodie.com/). My research focuses on statistical methods for precision medicine, including the development of dynamic treatment regimes (DTRs), causal inference, and applications to patients with depression.
 
 I hold a Ph.D. from the *Institut de Mathématiques de Toulouse* (IMT), where I developed reinforcement learning approaches for optimizing treatment sequences in healthcare settings. I also hold an engineering degree from the *Institut National des Sciences Appliquées* (INSA) of Toulouse, with a specialization in applied mathematics and statistics.
