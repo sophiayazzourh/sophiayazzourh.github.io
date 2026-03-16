@@ -8,12 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yazzourh"
+title                    : "Sophia Yazzourh"
 title_separator          : "-"
 name                     : &name "Sophia Yazzourh"
-description              : &description "personal description"
-url                      : https://sophiayazzourh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "Postdoctoral researcher in biostatistics at McGill University working on reinforcement learning and dynamic treatment regimes."
+keywords                 : "Sophia Yazzourh, biostatistics, McGill University, reinforcement learning, dynamic treatment regimes"
+url                      : https://sophiayazzourh.github.io
+baseurl                  : ""
 repository               : "sophiayazzourh/sophiayazzourh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
