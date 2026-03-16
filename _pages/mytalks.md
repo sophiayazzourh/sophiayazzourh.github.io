@@ -25,7 +25,7 @@ redirect_from:
   *Montreal – February 18, 2026*  
   *Near-Equivalent Q-learning Policies for Dynamic Treatment Regimes*
 
-- **Statistics Seminar of Glasgow University**  
+- **[Statistics Seminar of Glasgow University](https://www.gla.ac.uk/schools/mathematicsstatistics/events/details/?id=11603)**  
   *Glasgow – January 7, 2026*  
   *Reinforcement learning for precision medicine: Integrating medical knowledge into decision-making algorithms*  
 
@@ -34,11 +34,11 @@ redirect_from:
   *Construction de multiples recommandations epsilon-équivalentes dans le cadre des stratégies dynamiques de traitement*
 
 - **"Centre de Rercheches Mathématiques" Seminar of the Université de Montréal**  
-  *April 25, 2024*  
+  *April 25, 2025*  
   *Apprentissage par renforcement pour la médecine de précision : intégrer les connaissances médicales dans les algorithmes de décision*
 
 - **[Statistics Seminar of the Université du Québec à Montréal](https://statqam.uqam.ca/2024-2025/)**  
-  *Montreal – April 3, 2024*  
+  *Montreal – April 3, 2025*  
   *Integrating Medical Knowledge into Reinforcement Learning for Dynamic Treatment Regimes*
 
 - **[PhairLab (Michael Kosorok), University of North Carolina at Chapel Hill](https://tarheels.live/kosoroklab/)**  
