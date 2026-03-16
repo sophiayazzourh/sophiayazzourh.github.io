@@ -9,7 +9,7 @@ main:
     url: /mypublications/
 
   - title: Reproducible Code
-    url: /code/
+    url: /mycode/
 
   - title: "Talks"
     url: /mytalks/    
