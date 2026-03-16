@@ -9,11 +9,11 @@ redirect_from:
 
 
 ### **Published**
-  - Sophia Yazzourh (IMT), Nicolas Savy (IMT), Philippe Saint Pierre (IMT), and Michael Kosorok (UNC). *Medical Knowledge Integration into Reinforcement Learning Algorithms for Dynamic Treatment Regimes*, International Statistical Review, 2024. DOI:[10.1111/insr.12617](https://doi.org/10.1111/insr.12617).
+  - Sophia Yazzourh (Institut de Mathématiques de Toulouse), Nicolas Savy (Institut de Mathématiques de Toulouse), Philippe Saint Pierre (Institut de Mathématiques de Toulouse), and Michael Kosorok (University of North Carolina at Chapel Hill). *Medical Knowledge Integration into Reinforcement Learning Algorithms for Dynamic Treatment Regimes*, International Statistical Review, 2024. DOI:[10.1111/insr.12617](https://doi.org/10.1111/insr.12617).
 
 ### **On-going publications:**
-  - Sophia Yazzourh (IMT) and Nikki L. B. Freeman (Duke). *Bayesian Outcome Weighted Learning.* In preparation for Biostatistics. arXiv preprint [arXiv:2406.11573](https://arxiv.org/abs/2406.11573).
-  - Sophia Yazzourh (IMT), Nicolas Savy (IMT), Philippe Saint Pierre (IMT), and Michael Kosorok (UNC). *Rewards Construction Based on Preference Learning for Dynamic Treatment Regimes.*
+  - Sophia Yazzourh (Institut de Mathématiques de Toulouse) and Nikki L. B. Freeman (Duke). *Bayesian Outcome Weighted Learning.* In preparation for Biostatistics. arXiv preprint [arXiv:2406.11573](https://arxiv.org/abs/2406.11573).
+  - Sophia Yazzourh (Institut de Mathématiques de Toulouse), Nicolas Savy (Institut de Mathématiques de Toulouse), Philippe Saint Pierre (Institut de Mathématiques de Toulouse), and Michael Kosorok (University of North Carolina at Chapel Hill). *Rewards Construction Based on Preference Learning for Dynamic Treatment Regimes.*
   - Sophia Yazzourh (McGill) and Erica E.M. Moodie (McGill). *Near-Equivalent Q-learning Policies for Dynamic Treatment Regimes.*
 
 

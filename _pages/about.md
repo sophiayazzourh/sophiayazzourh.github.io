@@ -26,9 +26,9 @@ I hold a Ph.D. from the *Institut de Mathématiques de Toulouse* (IMT), where I 
 
 ## Academic commitment
 * **[Member of the African Women in Science Association (AFSA), McGill Representative](https://www.linkedin.com/in/afsa-qc-235b07363/?originalSubdomain=ca)** (2025–):  
-  Co-organizing seminars and community-building activities to promote the visibility and advancement of African women in science within the Montréal academic community, including a dedicated Biostatistics session scheduled for February 2025.
+  Co-organizing seminars and community-building activities to promote the visibility and advancement of African women in science within the Montréal academic community. 
 
-* **Organizer of the Student Seminar at IMT** (2022–2024): Coordinated bi-monthly [seminars](https://indico.math.cnrs.fr/category/575/) for PhD/postdocs.
+* **Organizer of the Student Seminar of the *Institut de Mathématiques de Toulouse*** (2022–2024): Coordinated bi-monthly [seminars](https://indico.math.cnrs.fr/category/575/) for PhD/postdocs.
 
 * **Committee Member, [10th Journées Statistiques du Sud](https://indico.math.cnrs.fr/event/10091/)** (2024): Organized workshops in southern France with mini-courses and presentations.
 
