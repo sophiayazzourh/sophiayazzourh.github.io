@@ -14,7 +14,7 @@ redirect_from:
 ### **On-going publications:**
   - Sophia Yazzourh (Institut de Mathématiques de Toulouse) and Nikki L. B. Freeman (Duke). *Bayesian Outcome Weighted Learning.* In preparation for Biostatistics. arXiv preprint [arXiv:2406.11573](https://arxiv.org/abs/2406.11573).
   - Sophia Yazzourh (Institut de Mathématiques de Toulouse), Nicolas Savy (Institut de Mathématiques de Toulouse), Philippe Saint Pierre (Institut de Mathématiques de Toulouse), and Michael Kosorok (University of North Carolina at Chapel Hill). *Rewards Construction Based on Preference Learning for Dynamic Treatment Regimes.*
-  - Sophia Yazzourh (McGill) and Erica E.M. Moodie (McGill). *Near-Equivalent Q-learning Policies for Dynamic Treatment Regimes.*
+  - Sophia Yazzourh (McGill) and Erica E.M. Moodie (McGill). *Near-Equivalent Q-learning Policies for Dynamic Treatment Regimes.* arXiv preprint [arXiv:2603.19440](http://arxiv.org/abs/2603.19440)
 
 
 ###  **Manuscript:**

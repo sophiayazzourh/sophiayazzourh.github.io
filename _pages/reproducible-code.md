@@ -19,6 +19,7 @@ Research code accompanying ongoing work on near-equivalent treatment policies in
 **Language:** Python  
 
 [Code](https://github.com/sophiayazzourh/Multiple_Policies_Qlearning)
+[Preprint](http://arxiv.org/abs/2603.19440)
 
 ---
 
